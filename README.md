@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @e1ectricdog
-- 👀 I’m interested in UI Designing
-- 🌱 I’m currently learning CSS & JS
-- 💞️ I’m looking to collaborate on game UI design
-- 📫 How to reach me [electricdog.xyz](https://electricdog.xyz)
-- ⚡ Fun fact: I'm cool
+I do graphic designs wowie
+
+🐈😺
+
+me@electricdog.xyz
